@@ -1,0 +1,19 @@
+ 
+footer{
+    display: flex;
+    background-color: #090a0a;
+    height: 50px;
+}
+
+footer h4{
+  display: flex;
+  color: #ffffff;
+  text-align: center;
+  align-items: center;
+  padding: 0 20px;
+  width: 100%;
+}
+
+h4{
+    font-size: 1em;
+}
